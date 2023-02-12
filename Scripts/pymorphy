@@ -1,0 +1,4 @@
+#!d:\university\4_course\7_semester\ais\bot_ais\scripts\python.exe
+import sys
+from pymorphy2 import cli
+sys.exit(cli.main())

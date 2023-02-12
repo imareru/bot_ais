@@ -1,0 +1,35 @@
+{
+  "question": [
+    "i'll ask you",
+    "i ((wanna)|(want to)) ask( to you){0,1}",
+    "((ask)|(asking)|(ask you)|(question)|(first step))",
+    "question to fixed text",
+    "i am ((chatting)|(asking))( now){0,1}",
+    "let me ask you a question"
+  ],
+  "sticker": [
+    "sticker ( please){0,1}",
+    "send a sticker",
+    "((can)|(would)|(could)|(may)) you (please ){0,1}((send)|(show)) sticker ( again){0,1}( please){0,1}",
+    "i ((wanna)|(want to)) see sticker",
+    "show me (something){0,1}"
+  ],
+  "tell_me_more": [
+    "((please )|(well )){0,1}tell me ((anything )|(something )){0,1}( else ){0,1}about ((it)|(this)|(that)|(these)|(this thing)|(that thing)|(these things))",
+    "((please )|(well )|(that's ((neat)|(cool)|(great)|(funny)|(interesting)))){0,1}tell me more (about it){0,1}",
+    "((can)|(would)) you tell me ((more)|(else)|(something else)|(anything else))( about ((this)|(it)|(that)|(this thing)|(that thing)|(these things)|(her baby)|(this stuff))){0,1}",
+    "what else ((do you know)|(can you tell me)) about it",
+    "who is your ((creator)|(developer)|(master)|(holder)|(host)|(team)|(bot master))",
+    "who ((did)|(created)|(made)|(make)|(create)|(build)|(owns)|(developed)|(designed)|(produced)|(programmed)|(is controlling)) you",
+    "who(m){0,1} do you belong ((to)|(with))",
+    "who is your ((architect)|(author)|(builder)|(implementer)|(owner)|(skipper)|(trainer)|(manager)|(chief))"
+  ],
+  "input_text": [
+    "((can)|(may)) i send ((you)|(u)){0,1} text",
+    "input (text){0,1}",
+    "let me send you text",
+    "input",
+    "send text",
+    "i'll send a text"
+  ]
+}
